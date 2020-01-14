@@ -36,3 +36,7 @@ public class LList {
             this.next = next;
         }
     }
+
+    public void test(){
+    }
+}
